@@ -19,5 +19,4 @@ public class Door : MonoBehaviour {
     {
         myAnimator.SetTrigger("Close");
     }
-
 }
