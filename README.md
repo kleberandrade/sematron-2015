@@ -1,6 +1,6 @@
 # Curso de Unity 5 - XI Sematron (2015)
 
-Projeto desenvolvido durante o [XI Sematron 2015](http://www.sematron.com.br/) que acontece na EESC/USP.
+Projeto desenvolvido durante o [XI Sematron 2015](http://www.sematron.com.br/) que acontece na EESC/USP. Para jogar o game online, [clique aqui](https://build.cloud.unity3d.com/distro/install?id=Zkj7W037gg).
 
 ## Missão do Evento
 
