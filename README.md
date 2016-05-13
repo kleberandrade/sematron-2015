@@ -21,6 +21,18 @@ Durante o curso foram vistos:
 * Conceitos básicos de C#
 * Animações e controladores de animações
 
+## Cenas do jogo
+
+O jogo é composto por diversas salas, onde foi dado enfase nos materiais, iluminação, partículas e física.
+
+![gameplay](http://img.prntscr.com/img?url=http://i.imgur.com/5eP7BLs.jpg)
+
+![gameplay](http://img.prntscr.com/img?url=http://i.imgur.com/SHNhBLk.jpg)
+
+![gameplay](http://img.prntscr.com/img?url=http://i.imgur.com/lohrgYf.jpg)
+
+![gameplay](http://img.prntscr.com/img?url=http://i.imgur.com/p5S7YaO.png)
+
 ## Contato
 
 Para contato com o professor é só enviar email para pdjkleber@gmail.com
